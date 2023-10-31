@@ -17,11 +17,6 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: rgb(37,37,37);
+  background: rgb(210, 210, 201); /* Change the background color to green */
 }
